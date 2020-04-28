@@ -29,7 +29,7 @@ class Content extends Component {
   componentWillUnmount() {
     clearInterval(this.interval);
   }
-  
+
   render() {
     if (this.state.positions.iss_position) {
       return (
@@ -45,7 +45,7 @@ class Content extends Component {
               <hr className="my-4"/>
                 <p>To find the documentation of this API, please click to 'Learn more'</p>
                 <p className="lead">
-                  <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                  <a className="btn btn-primary btn-lg" href="http://open-notify.org/Open-Notify-API/ISS-Location-Now" role="button">Learn more</a>
                 </p>
             </div>
           </div>
