@@ -1,4 +1,21 @@
-.content-bg {
-    background-image: url("iss-bg.jpg");
-    background-size: cover;
+.content {
+    margin-top: 110px;
+}
+
+.jumbo-custom {
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+
+.jumbotron {
+    background-color: rgba(233, 236, 239, 0.1) !important;
+    min-height: 64vh !important;
+}
+
+.bold {
+    font-weight: 700;
+    background-color: rgb(16, 120, 150);
+    padding: 5px;
+    border-radius: 3px;
 }
