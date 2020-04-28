@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ISS-react/static/css/main.64844e77.chunk.css",
+    "main.js": "/ISS-react/static/js/main.0b1da3bd.chunk.js",
+    "main.js.map": "/ISS-react/static/js/main.0b1da3bd.chunk.js.map",
+    "runtime-main.js": "/ISS-react/static/js/runtime-main.2f887112.js",
+    "runtime-main.js.map": "/ISS-react/static/js/runtime-main.2f887112.js.map",
+    "static/css/2.74189dbb.chunk.css": "/ISS-react/static/css/2.74189dbb.chunk.css",
+    "static/js/2.13427960.chunk.js": "/ISS-react/static/js/2.13427960.chunk.js",
+    "static/js/2.13427960.chunk.js.map": "/ISS-react/static/js/2.13427960.chunk.js.map",
+    "index.html": "/ISS-react/index.html",
+    "precache-manifest.db99894d8eff1294426ea4e46a9be872.js": "/ISS-react/precache-manifest.db99894d8eff1294426ea4e46a9be872.js",
+    "service-worker.js": "/ISS-react/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/ISS-react/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.64844e77.chunk.css.map": "/ISS-react/static/css/main.64844e77.chunk.css.map",
+    "static/js/2.13427960.chunk.js.LICENSE.txt": "/ISS-react/static/js/2.13427960.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ISS-react/static/media/iss-bg.65bc9c4d.jpg",
+    "static/media/logo.svg": "/ISS-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f887112.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.13427960.chunk.js",
+    "static/css/main.64844e77.chunk.css",
+    "static/js/main.0b1da3bd.chunk.js"
+  ]
+}
